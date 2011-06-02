@@ -1,6 +1,6 @@
 // 5/30/11 David Haws
 // Created to hold all the subset functions 
-// Added to git2.as.uky.edu. Another time.
+// Added to git2.as.uky.edu. 
 
 #ifndef SUBSETS_H
 #define SUBSETS_H 1
